@@ -7,3 +7,6 @@
 ### import data on node attributes
 nodes <- read.table("email-Eu-core-department-labels.txt", header = F)
 head(nodes)
+dim(nodes)
+
+#
